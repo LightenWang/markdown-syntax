@@ -41,7 +41,7 @@ You can use one '#' all the way up to six '######' for differnt heading sizes
 
 If you'd like to quote someone, use the > character before the line:
 > Coffee. The finest organic suspension ever devised... I beat the borg with it.
->  -Captaion Janeway
+>  -Captaion Janeway (***issue1 to solve***)
 
 #### Code
 There are many different ways to style code with GitHub's Markdown.
@@ -71,4 +71,17 @@ if (isAwesome)
 ```
 
 #### Extras
+GitHub supports many extras in Markdown that help you reference and 
+link to people. If you ever want to direct a comment at someone, you
+can prefix their name with an @ symbol: Hey @LightenWang (***issue2 to solve***) - love your
+sweater!
 
+But I had to admit, tasks lists are my favorite:
+- [x] This is a complete item.
+- [ ] This is an incomplete item.
+
+When you include a task list in the first comment of an Issue, you 
+will see a helpful progress bar in your list of issues. It works
+in Pull Request too.
+
+And, of course emoji! :sparkles: :camel: :boom:

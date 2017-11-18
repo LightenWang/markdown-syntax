@@ -28,6 +28,10 @@ Alternatively,
 If you want to embed images, this is how you do it:
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
+Image2
+![](https://www.flickr.com/photos/159891275@N04/38464302472/in/album-72157689726070215/)
+
+
 #### Headers & Quotes
 # Structured documents
 
